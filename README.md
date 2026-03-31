@@ -205,9 +205,8 @@ This is an academic project. Suggestions and feedback are welcome!
 Academic Project - VIT University
 
 ## Author
-[Your Name]
-[Your Registration Number]
-[Your Email]
+Nayan Assudani 
+24BHI10114
 
 ## Acknowledgments
 - VIT University for project guidelines
